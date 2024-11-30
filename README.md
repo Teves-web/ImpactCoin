@@ -8,7 +8,7 @@ ImpactCoin é um token ERC-20 focado em incentivar ações sociais, como recicla
 - Compatível com Ethereum e listagem inicial em Uniswap.
 
 ## Começando  
-[1. Clone o repositório.](https://github.com/usuario/ImpactCoin.git)
+https://github.com/usuario/ImpactCoin.git
 
 Leia o **Whitepaper** para entender a visão e os objetivos.  
 
