@@ -29,7 +29,7 @@ ImpactCoin é uma solução baseada em blockchain para recompensar indivíduos e
 
 A distribuição dos tokens ImpactCoin (IMPC) foi planejada para equilibrar a rentabilidade, impacto social e incentivos para adoção. Veja abaixo o gráfico de distribuição:
 
-![Distribuição de Tokens - ImpactCoin](images/Tokenomics_ImpactCoin.png)
+![distribuicao_tokens_impactcoin](https://github.com/user-attachments/assets/50519278-7a66-43cd-9976-9b4a45983c05)
 
 ---
 
@@ -37,7 +37,7 @@ A distribuição dos tokens ImpactCoin (IMPC) foi planejada para equilibrar a re
 
 O fluxograma abaixo detalha a arquitetura do contrato inteligente do ImpactCoin, mostrando as interfaces utilizadas e as funções principais:
 
-![Estrutura do Contrato - ImpactCoin](images/Fluxograma_Contrato_ImpactCoin.png)
+![fluxograma_estrutura_contratoCoin](https://github.com/user-attachments/assets/fac0ab35-2677-42c9-954b-d3ca97bda290)
 
 
 ## Casos de Uso
